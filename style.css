@@ -1,0 +1,19 @@
+ @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body {
+  Background-color:RED;
+  font-family: 'Dancing Script', cursive;
+}
+h1 {
+  text-align:center;
+  background:yellow;
+  color:red;
+}
+h2 {
+  background:green;
+  color:yellow;
+  width:50%;
+  text-align:center;
+}
+a {
+  color:yellow;
+} 
